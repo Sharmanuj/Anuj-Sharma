@@ -1,3 +1,1 @@
-# Anuj-Sharma
-This is a demo file.
-# Anuj-Sharma
+This is demo user register form in html and js base 
